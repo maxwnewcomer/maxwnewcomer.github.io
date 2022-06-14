@@ -42,7 +42,7 @@
 - Built on top of industry leading software (PEST) using TensorBoard to provide United States Hydrologists with live loss and metrics tracking for monitoring and managing their water model runs.
 - Designed and configured a new GPU computation cluster using Lambda Stack and Docker containers.
 
-## Paradigm Remote
+## Paradigm
 
 ### Software Engineer Intern (Part-time)
 *(Jun 2020 - Dec 2020)*
