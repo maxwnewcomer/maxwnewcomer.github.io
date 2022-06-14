@@ -10,6 +10,7 @@ showAllPostsOnHomePage = false
 postsOnHomePage = 0
 showProjectsList = true
 projectsUrl = "https://github.com/maxwnewcomer"
+enableRobotsTXT = true
 
 [markup]
   [markup.tableOfContents]
