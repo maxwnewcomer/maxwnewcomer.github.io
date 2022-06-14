@@ -1,0 +1,14 @@
+{
+   "list": [
+      {
+         "name":"NWTOPT",
+         "url":"https://doi.org/10.1016/j.envsoft.2021.105250",
+         "desc":"A hyperparameter optimization approach for selection of environmental model solver settings (2021)"
+      },
+      {
+         "name":"MODFLOW and More",
+         "url":"https://www.yumpu.com/en/document/read/66904646/modflow-and-more-2022-program",
+         "desc":"NWTOPT research presented at MODFLOW and Machine Learning conference hosted at Princeton University (2022)"
+      }
+   ]
+}
