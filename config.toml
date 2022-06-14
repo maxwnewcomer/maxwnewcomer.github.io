@@ -41,7 +41,7 @@ link = "https://orcid.org/0000-0003-2491-546X"
 
 [[params.social]]
 name = "email"
-link = "maxnewcomer@gmail.com"
+link = "maxwnewcomer@gmail.com"
 
 
 [[menu.main]]
@@ -51,5 +51,5 @@ weight = 1
 
 [[menu.main]]
 name = "Resume"
-url = "/Resume"
+url = "/resume"
 weight = 2

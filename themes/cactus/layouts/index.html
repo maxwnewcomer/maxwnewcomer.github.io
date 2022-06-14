@@ -86,7 +86,9 @@
     {{ end }}
   </section> -->
 
-  {{ $showProjectsList := false }}
+<!-- PROJECTS SECTION BELOW IF WANTED -->
+
+  <!-- {{ $showProjectsList := false }}
   {{ if (isset .Site.Params "showprojectslist") }}
     {{ $showProjectsList = .Site.Params.showProjectsList }}
   {{ else if .Site.Data.projects }}
@@ -108,7 +110,7 @@
     </ul>
   </section>
 
-  {{ end }}
+  {{ end }} -->
   <section id="publications">
     <span class="h1">Publications & Presentations</span>
     <ul class="project-list">
