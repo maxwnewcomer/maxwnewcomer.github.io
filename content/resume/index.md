@@ -57,7 +57,7 @@
 ## NWTOPT - A Hyperparameter Optimization Approach for selection of Environmental Model Solver Settings *(Newcomer, Hunt, 2022)*
 Published in the journal of Environmental Modelling & Software - https://doi.org/10.1016/j.envsoft.2021.105250.
 ## MODFLOW and More *(Newcomer, Hunt, 2022)*
-NWTOPT research presented at the MODFLOW, water system, and machine learning conference at Princeton University.
+NWTOPT research accepted to the MODFLOW and More conference, a MODFLOW, water system, and machine learning conference at Princeton University.
 
 # Certifications
 
