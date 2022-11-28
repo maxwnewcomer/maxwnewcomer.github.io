@@ -4,7 +4,7 @@
 ## University of Wisconsin – Madison
 
 ### Bachelor of Science - Computer Science, Mathematics, and Data Science
-*(09/2019 - 12/2022*
+*(09/2019 - 12/2022)*
 
 
 **Courses** - Operating Systems, Algorithms, Matrix Methods in Machine Learning, Linear Optimization, Machine Organization, Databases
