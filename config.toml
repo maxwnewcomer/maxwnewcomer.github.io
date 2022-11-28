@@ -3,7 +3,7 @@ title = "Max Newcomer"
 baseURL = "https://maxnewcomer.com"
 [params]
 colortheme = "dark"
-description = "I'm a software engineer/data scientist skilled in optimization with 3 years of relevant experience creating machine learning models, retraining systems and transforming data science prototypes to production-grade solutions. I'm graduating in the fall of 2022 from the University of Wisconsin - Madison with majors in Computer Science, Mathematics, and Data Science. I look forward to applying my skills and learning much more as I continue my career in the Computer Science and Data Science fields!"
+description = "I'm a software engineer skilled in optimization with 3 years of relevant experience designing systems, creating machine learning models, and transforming prototypes into production-grade solutions. I'm graduating in the fall of 2022 from the University of Wisconsin - Madison with majors in Computer Science, Mathematics, and Data Science. I look forward to applying my skills and learning much more as I continue my career in the Computer Science and Data Science fields!"
 mainSection = "posts"
 mainSectionTitle = "Blog"
 showAllPostsOnHomePage = false
