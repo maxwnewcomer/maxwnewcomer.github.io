@@ -4,7 +4,7 @@
 ## University of Wisconsin – Madison
 
 ### Bachelor of Science - Computer Science, Mathematics, and Data Science
-*(09/2019 - 12/2022), GPA: 3.46*
+*(09/2019 - 12/2022*
 
 
 **Courses** - Operating Systems, Algorithms, Matrix Methods in Machine Learning, Linear Optimization, Machine Organization, Databases
@@ -12,7 +12,7 @@
 # Experience
 
 ## United States Geological Survey (USGS)
-### Hydrology Data Scientist (Team Leader, Full-Time)
+### Software Engineer (Student Team Leader, Part-Time)
 *(May 2019 - Present)*
 
 - Manages and delegates work for team members, ensuring that tasks related to team goals get done on time in an accurate and efficient manner.
@@ -23,8 +23,13 @@
 ### Project Lead Developer (Self-Employed)
 *(Nov 2022 - Present)*
 
-- Constructed a ngrok web server for Shopify Webhook management to construct an order management pipeline from Shopify into an AWS DynamoDB, storing customer and order information.
-- Generated business-related insights from Shopify order information through ML training on data stored on AWS DynamoDB, including an order prediction algorithm based on previous proxy purchase patterns and industry release timing to be used for targeted coupon code marketing through the DiscordAPI which resulted in a 28% increase in proxy orders.
+- Hosted a nginx server on a personal compute cluster for Shopify webhook management to construct an order management
+pipeline from Shopify into an AWS, storing customer and order information in DynamoDB which then was to be
+processed by other business-related subroutines.
+- Generated business-related insights from Shopify order information through ML training on data stored on a AWS
+DynamoDB, including an order prediction algorithm based on previous proxy purchase patterns and industry release
+timing to be used for targeted coupon code marketing through the Discord API which resulted in a 28% increase in proxy
+orders.
 
 ## Paradigm
 
